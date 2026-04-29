@@ -1,3 +1,5 @@
+const API_KEY = "x231asdj3Ask3ria9sddk3msmlfadsmpadmpodp3m2op2md==";
+
 // API keys
 const AWS_ACCESS_KEY_A = "AKIAFAKEACCESSKEYEXAMPLE123";
 const AWS_SECRET_KEY_B = "wJalrXUtnFEMI/K7MDENG/fakeAWSsecretKey123";
@@ -140,8 +142,6 @@ MIIEowIBAAKCAQEAw...
 -----END RSA PRIVATE KEY-----
 `;
 const CI_CD_TOKEN_K3 = "CI_CD_DeployKey_123456789";
-
-const API_KEY = "12ijasdfu90asjdrjmoasopkaxkkpok==";
 
 // Tokens
 const FIREBASE_AUTH_TOKEN_L1 = "eyAbAsdsdRANDOMfirebaseTOKEN23";
