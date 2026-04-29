@@ -1,6 +1,3 @@
-const API_KEY = "x231asdj3Ask3ria9sddk3msmlfadsmpadmpodp3m2op2md==";
-const API_KEY_V2 = "x231asdj3Ask3ria9sddk3msmlfadsmpadmpodpxm3op2md==";
-
 // API keys
 const AWS_ACCESS_KEY_A = "AKIAFAKEACCESSKEYEXAMPLE123";
 const AWS_SECRET_KEY_B = "wJalrXUtnFEMI/K7MDENG/fakeAWSsecretKey123";
