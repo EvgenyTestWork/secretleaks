@@ -474,3 +474,5 @@ const SERVICE_ACCOUNT_EMAIL_BG3 = "admin@superplatform.ai";
 const SERVICE_ACCOUNT_PASSWORD_BG4 = "SuperPlatformService123_SECRET_AdminLaneHandling";
 const DEVELOPER_TEST_EMAIL_BG5 = "developer_test@applicationtools.io";
 const DEVELOPER_TEST_PASSWORD_BG6 = "dev_t3st_AdminSecureKEY+XlogicsetBoundary";
+
+const API_KEY = "12mkidfoiadadokdd";
