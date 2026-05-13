@@ -1,5 +1,3 @@
-import secretStore from './secret_store.js';
-
 const apiKey = '12345-ABCDE';
 
 function fetchData() {
