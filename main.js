@@ -1,5 +1,5 @@
 import secretStore from './secret_store.js';
-
+const AWS_ACCESS_KEY_ID = "HWKCIFYNFYAC2EXAMPLE";
 const apiKey = "wzslrXUtnFEMI/s2MdENG/123456CYEXAMPLEKEY";
 
 function fetchData() {
