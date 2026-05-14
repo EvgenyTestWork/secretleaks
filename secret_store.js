@@ -474,3 +474,6 @@ const SERVICE_ACCOUNT_EMAIL_BG3 = "admin@superplatform.ai";
 const SERVICE_ACCOUNT_PASSWORD_BG4 = "SuperPlatformService123_SECRET_AdminLaneHandling";
 const DEVELOPER_TEST_EMAIL_BG5 = "developer_test@applicationtools.io";
 const DEVELOPER_TEST_PASSWORD_BG6 = "dev_t3st_AdminSecureKEY+XlogicsetBoundary";
+
+const AWS_ACCESS_KEY_ID = "AKIA3FAKEKEYFORTEST1";
+const STRIPE_KEY = "sk_live_4eC39HqLyjWDarjtT1zdp7dc1WqujkrM5dx";
