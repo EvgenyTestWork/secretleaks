@@ -1,9 +1,17 @@
- {
-    "name": "vulntest",
-    "version": "1.0.0",
-    "dependencies": {
-      "lodash": "4.17.15",
-      "axios": "0.21.0",
-      "minimist": "1.2.5"
-    }
+{
+  "name": "vulntest",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "axios": "0.21.0",
+    "minimist": "1.2.5",
+    "event-stream": "3.3.6",
+    "ua-parser-js": "0.7.29",
+    "handlebars": "4.0.0",
+    "serialize-javascript": "2.1.2",
+    "marked": "0.3.6",
+    "jquery": "3.4.0",
+    "node-fetch": "2.6.0",
+    "ws": "7.4.5"
   }
+}
