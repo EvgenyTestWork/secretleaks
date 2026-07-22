@@ -5,7 +5,7 @@
     "lodash": "4.17.15",
     "axios": "0.21.0",
     "minimist": "1.2.5",
-    "event-stream": "3.3.7",
+    "event-stream": "3.3.8",
     "ua-parser-js": "0.7.29",
     "handlebars": "4.0.0",
     "serialize-javascript": "2.1.2",
