@@ -3,3 +3,21 @@ blabla
 GOCSPX-fakegoogleclientsecret12345678
 
 sk_live_4eC39HqLyjWDarjtT1zdp7dc1WqujkrM5dx
+
+DATABASE_PASSWORD="V8q2N7m4R9z6K3p1!"
+
+Authorization: Basic c3luY19wcm9iZTpNN3g5UTJ2NEw4cTZSMXo1VzN5MFU4bjI=
+
+Authorization: Bearer b7Q9n2R6v4K8m1Z5p3X0c9W2t6H4s8D1
+
+mongodb://sync_probe:M7x9Q2v4L8q6R1z5W3y0U8n2@db.example.com:27017/payments
+
+mysql://sync_probe:K8p3V6n9D2r7Z4q1@db.example.com:3306/payments
+
+postgres://sync_probe:H9v2R7m4P8q6N3z1@db.example.com:5432/payments
+
+-----BEGIN EC PRIVATE KEY-----
+MHcCAQEEIDJYWHyAhZc57izIGqV3x8v/Ug3YVK0fs9shNsT827AGoAoGCCqGSM49
+AwEHoUQDQgAEk0Q/zNVhO7o28em2K3NjdPcvqpAOY+OAnKyaklO0O7vMzYcGjhVL
+9HOTCeNa1B4FnDTHf15aBzklSxvgX4N1Ug==
+-----END EC PRIVATE KEY-----
