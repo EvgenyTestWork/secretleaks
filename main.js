@@ -1,6 +1,7 @@
 import secretStore from './secret_store.js';
 const apiKey = "wzslrXUtnFEMI/s2MdENG/123456CYEXAMPLEKEY";
 const secret = "wzslrXUtnFEMI/s2MdENG/SECRETCYEXAMPLEKEY"
+const db = "mongodb+srv://readWriteUser:password123@cluster0.abcd.mongodb.net/myFirstDataba1e";
 
 function fetchData() {
     const apiUrl = `https://api.example.com/data?api_key=${apiKey}`;
